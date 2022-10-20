@@ -1,0 +1,59 @@
+.conteiner-l {
+    background-image: url("https://i.redd.it/653pso717gz81.gif");
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-size: cover;
+}
+
+.nombre{
+    font-family: 'Silkscreen', sans-serif;
+    font-weight: bolder;
+    color: white;
+    position: relative;
+    top: 330px;
+    
+    
+    
+}
+
+
+.btn-entrar{
+    font-family: fantasy;
+    font-weight: bolder;
+    position: relative;
+    top: 250px;
+    right: -1220px;
+    background: transparent;
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border: none;
+    border-color: none;
+}
+
+.btn-entrar:hover{
+    color: white;
+    background: transparent;
+}
+
+.boton_linkedin a {
+    margin: 0 5px;
+    font-size: 50px;
+    color: white;
+    transition: all 300ms;
+    position: absolute;
+    top: 400px;
+    left: 100px;
+    cursor: pointer;
+}
+
+.boton_git a{
+    margin: 0 5px;
+    font-size: 50px;
+    transition: all 300ms;
+    position: absolute;
+    top: 400px;
+    left: 180px;
+    cursor: pointer;
+}
